@@ -1,3 +1,7 @@
 連猴子都懂的Git命令
 add 修改加入書籤
+<<<<<<< HEAD
 commit 記錄索引的狀態
+=======
+pull 取得遠端數據庫的內容
+>>>>>>> 60744cb0afccf31d3beb76086d6aaec95564cd3b
